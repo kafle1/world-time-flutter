@@ -1,7 +1,7 @@
 
 # World Time - Flutter App
 
-In World Time, you can see current time of different location. This app used word time api to show current time in different countries.
+In World Time, you can see current time of different location. This app used world time api to show current time in different countries.
 
 ## Preview
 
